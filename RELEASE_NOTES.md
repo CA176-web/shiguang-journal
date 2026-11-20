@@ -13,10 +13,10 @@
 
 [下载最新版](https://github.com/CA176-web/shiguang-journal/releases/latest) · [0.9.1 下载页](https://github.com/CA176-web/shiguang-journal/releases/tag/v0.9.1)
 
-- **完整分享包**：`拾光日记-0.9.1-Windows安装分享包_V1.zip`，含安装程序、使用说明和校验文件。
-- **安装程序**：`拾光日记-0.9.1-无标签最近排序与PDF导出-x64安装包_V4.exe`。
+- **[完整分享包（ZIP）](https://github.com/CA176-web/shiguang-journal/releases/download/v0.9.1/shiguang-journal-0.9.1-windows-share_V1.zip)**：`shiguang-journal-0.9.1-windows-share_V1.zip`，含安装程序、使用说明和校验文件。
+- **[安装程序（EXE）](https://github.com/CA176-web/shiguang-journal/releases/download/v0.9.1/shiguang-journal-0.9.1-windows-x64-setup_V4.exe)**：`shiguang-journal-0.9.1-windows-x64-setup_V4.exe`。
 
-ZIP 下载后先右键“全部解压”，再打开解压后的文件夹运行安装程序。程序自带运行时。升级前先创建加密备份，保存并关闭拾光，再安装新版。
+ZIP 下载后先右键“全部解压”，再打开解压后的文件夹运行 `拾光日记-0.9.1-无标签最近排序与PDF导出-x64安装包_V4.exe`。程序自带运行时。升级前先创建加密备份，保存并关闭拾光，再安装新版。
 
 安装包尚未配置代码签名，Windows 可能显示“未知发布者”；可使用下载页提供的 SHA-256 文件核对下载结果。
 

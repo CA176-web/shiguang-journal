@@ -6,13 +6,13 @@
 
 ## 下载与安装
 
-推荐下载 **`拾光日记-0.9.1-Windows安装分享包_V1.zip`**，内含安装程序、使用说明和校验文件。
+推荐下载 [完整分享包（ZIP）](https://github.com/CA176-web/shiguang-journal/releases/download/v0.9.1/shiguang-journal-0.9.1-windows-share_V1.zip)：`shiguang-journal-0.9.1-windows-share_V1.zip`，内含安装程序、使用说明和校验文件。
 
 1. 下载 ZIP 后，右键选择“全部解压”。
 2. 打开解压后的文件夹，运行 `拾光日记-0.9.1-无标签最近排序与PDF导出-x64安装包_V4.exe`。
 3. 按安装向导完成安装，从开始菜单或桌面快捷方式打开“拾光日记”。
 
-也可直接下载安装 EXE。程序自带所需运行时，无需另装 .NET；本地日记功能可离线使用。升级前请创建加密备份，保存并退出拾光，再运行新版安装包。换电脑时使用 `.journalbackup` 加密备份恢复日记和附件，具体步骤见分享包内说明。
+也可直接下载 [安装程序（EXE）](https://github.com/CA176-web/shiguang-journal/releases/download/v0.9.1/shiguang-journal-0.9.1-windows-x64-setup_V4.exe)：`shiguang-journal-0.9.1-windows-x64-setup_V4.exe`。程序自带所需运行时，无需另装 .NET；本地日记功能可离线使用。升级前请创建加密备份，保存并退出拾光，再运行新版安装包。换电脑时使用 `.journalbackup` 加密备份恢复日记和附件，具体步骤见分享包内说明。
 
 安装包尚未配置代码签名，Windows 可能显示“未知发布者”；下载页提供对应的 SHA-256 校验文件。
 
